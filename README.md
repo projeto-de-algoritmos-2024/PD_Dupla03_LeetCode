@@ -18,10 +18,10 @@ Para este trabalho, a dupla irá realizar exercícios de programação do LeetCo
 - [Problema X](link)
 
 ## Screenshots
-### Problema X
-![problema](assets/)
-### Problema X
-![problema](assets/)
+### Problema 131
+![problema](assets/problem131.png)
+### Problema 132
+![problema](assets/problem132.png)
 ### Problema X
 ![problema](assets/)
 ### Problema X
