@@ -1,7 +1,4 @@
-Tema:
- - PD
-
-# NomedoProjeto
+# PD - LeetCode
 
 **Número da Lista**: 5<br>
 **Conteúdo da Disciplina**: Programação Dinâmica<br>
@@ -9,26 +6,32 @@ Tema:
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/2037648   |  André Cláudio Maia da Cunha |
 | 211062713  |  Paola Nascimento |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Para este trabalho, a dupla irá realizar exercícios de programação do LeetCode, praticando algoritmos que sigam a intuição de Programação Dinâmica.
+
+- [Problema X](link)
+- [Problema X](link)
+- [Problema X](link)
+- [Problema X](link)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Problema X
+![problema](assets/)
+### Problema X
+![problema](assets/)
+### Problema X
+![problema](assets/)
+### Problema X
+![problema](assets/)
 
 ## Instalação 
-**Linguagem**: python<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python 3<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Copie o código da questão e cole no respectivo problema no LeetCode. Após isso, clique em "submit" para ver o Online Judge verificando se a solução é válida.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
+## Vídeo
 
