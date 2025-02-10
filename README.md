@@ -33,5 +33,7 @@ Para este trabalho, a dupla irá realizar exercícios de programação do LeetCo
 ## Uso 
 Copie o código da questão e cole no respectivo problema no LeetCode. Após isso, clique em "submit" para ver o Online Judge verificando se a solução é válida.
 
-## Vídeo
+## Link do Vídeo
+
+[Clique Aqui!](https://youtu.be/k1_0dg820ks)
 
