@@ -14,18 +14,18 @@ Para este trabalho, a dupla irá realizar exercícios de programação do LeetCo
 
 - [Problema 131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/?envType=problem-list-v2&envId=dynamic-programming)
 - [Problema 132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/?envType=problem-list-v2&envId=dynamic-programming)
-- [Problema X](link)
-- [Problema X](link)
+- [Problema 10](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming)
+- [Problema 62](https://leetcode.com/problems/unique-paths/description/?envType=problem-list-v2&envId=dynamic-programming)
 
 ## Screenshots
 ### Problema 131
 ![problema](assets/problem131.png)
 ### Problema 132
 ![problema](assets/problem132.png)
-### Problema X
-![problema](assets/)
-### Problema X
-![problema](assets/)
+### Problema 10
+![problema](assets/problem10.png)
+### Problema 62
+![problema](assets/problem62.png)
 
 ## Instalação 
 **Linguagem**: Python 3<br>
